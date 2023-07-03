@@ -6,5 +6,6 @@ public class Test {
         System.out.println("lisi");
         System.out.println("wangwu");
         System.out.println("haima");
+        System.out.println("hainiu");
     }
 }
